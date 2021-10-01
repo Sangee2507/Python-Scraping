@@ -1,2 +1,2 @@
 # Python-Scraping
-Code for PRoject on Python Scraping
+Code for Project on Python Scraping
