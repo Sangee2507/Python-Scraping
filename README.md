@@ -1,2 +1,2 @@
 # Python-Scraping
-Some sample codes done in Python
+Code for PRoject on Python Scraping
